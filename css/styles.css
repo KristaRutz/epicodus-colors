@@ -11,3 +11,12 @@
   background-color: red;
   color: white;
 }
+
+#salad {
+font-family: cursive;
+cursor: pointer;
+}
+
+img {
+  width: 5px;
+}
